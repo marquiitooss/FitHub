@@ -1,6 +1,6 @@
 {
-  "latest_version_code": 2,
-  "latest_version_name": "1.0.1",
-  "download_url": "https://github.com/marquiitooss/FitHub/releases/download/v1.0.1-prerelease/FitHub.apk",
-  "release_notes": "Actualizada la pantalla de inicio y el actualizador."
+  "latest_version_code": 3,
+  "latest_version_name": "1.0.2",
+  "download_url": "https://github.com/marquiitooss/FitHub/releases/download/v1.0.2-prerelease/FitHub.apk",
+  "release_notes": "Arreglados varios errores y mejora en la distribución de la app."
 }
