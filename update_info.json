@@ -1,6 +1,6 @@
 {
-  "latest_version_code": 3,
-  "latest_version_name": "1.1.1",
-  "download_url": "https://github.com/marquiitooss/FitHub/releases/download/v1.1.1-release/FitHub.apk",
-  "release_notes": "Corregido el error que si tienes Android 13 o inferior no deja iniciar sesión."
+  "latest_version_code": 4,
+  "latest_version_name": "1.2.0",
+  "download_url": "https://github.com/marquiitooss/FitHub/releases/download/v1.2.0-release/FitHub.apk",
+  "release_notes": "¡Actualización FitHub v1.2.0: Más control sobre tus conexiones y notificaciones mejoradas!"
 }
